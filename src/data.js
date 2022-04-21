@@ -1,94 +1,107 @@
+import placeholder from "./placeholder.png"
+
 // android
-import aarushi from "./aarushi.jpeg";
-import ben from "./ben.jpeg";
-import jonah from "./jonah.jpeg"
+import justin from "./another_justin.jpg"
+import maxwell from "./maxwell_pang.jpg"
+import emily from "./emily_hu.jpg"
 
 // ios
-import justin from "./justin.jpeg"
-import vivian from "./vivian.jpeg"
-import elvis from "./elvis.jpeg"
 
 // marketing
 import carnell from "./challenger-carnell.jpeg";
 import vivp from "./vivian-p.jpeg";
+import matthew from "./matthew_wong.jpg"
+import jane from "./jane_lee.png"
 
 // design
 import jin from "./jin.png";
 import christina from "./christina.jpeg";
 import michelle from "./michelle.png";
-import emily from "./emily.jpeg";
+import emily2 from "./emily.jpeg";
+import kayla from "./kayla_sprayberry.png"
+import liam from "./liam_du.jpg"
 
 // backend
 import kidus from "./kidus.jpeg";
 import jessica from "./jessica.jpeg";
+import marya from "./marya_kim.jpg"
+import archit from "./archit_mehta.jpg"
 
+// best subteam
 export const android = [
     {
-        image: aarushi,
-        fact: 'What are grilled cheese sandwich ?!?!'
+        image: emily,
+        name: "Emily Hu",
+        fact: 'I named myself Emily because of Clifford',
+        major: "Math & Computer Science"
     },
     {
-        image: ben,
-        fact: 'Me like cycling 🚴‍♀️'
+        image: justin,
+        name: "Justin Guo",
+        fact: 'I can put both my legs behind my head at the same time 😳😳',
+        major: 'Computer Science',
+        minor: 'Game Design'
     },
     {
-        image: jonah,
-        fact: 'Me chef 👨‍🍳'
+        image: maxwell,
+        name: "Maxwell Pang",
+        fact: 'I\'m a certified scuba diver',
+        major: 'Computer Science'
+
     }
 ]
 
 export const ios = [
     {
-        image: justin,
-        fact: 'I have been to 30 different cities across 11 countries 🎉!!'
+        image: placeholder,
+        fact: 'I am a cereal killer (I eat my cereal and then drink the milk)',
     },
     {
-        image: vivian,
-        fact: 'I am a cereal killer (I eat my cereal and then drink the milk)'
-    },
-    {
-        image: elvis,
-        fact: '🚗🚙🚗🚙🚗 ~ I love transformers ~ 🚙🚗🚙🚗🚙🚗🚙🚗🚙'
+        image: placeholder,
+        fact: '🚗🚙🚗🚙🚗 ~ I love transformers ~ 🚙🚗🚙🚗🚙🚗🚙🚗🚙',
     }
 ]
 
 export const marketing = [
     {
-        image: carnell,
-        fact: 'Lorem ipsum dolor'
+        image: matthew,
+        name: "Matthew Wong",
+        fact: 'I\'m left-handed but shoot a basketball with my right-hand',
+        major: "Information Science, Systems, and Technology"
     },
     {
-        image: vivp,
-        fact: 'Lorem ipsum dolor'
+        image: jane,
+        name: "Jane Lee",
+        fact: 'Lorem ipsum dolor',
+        major: "Chemical Engineering"
     }
 ]
 
 export const design = [
     {
-        image: jin,
-        fact: 'Lorem ipsum dolor'
+        image: kayla,
+        name: "Kayla Sprayberry",
+        fact: 'I can crack nearly every part of my body',
+        major: 'Computer Science',
+        minor: 'Spanish'
     },
     {
-        image: christina,
-        fact: 'Lorem ipsum dolor'
-    },
-    {
-        image: michelle,
-        fact: 'Lorem ipsum dolor'
-    },
-    {
-        image: emily,
-        fact: 'Lorem ipsum dolor'
+        image: liam,
+        fact: 'I build guitars',
+        major: 'Computer Science',
+        name: 'Liam Du'
     }
 ]
 
 export const backend = [
     {
-        image: kidus,
-        fact: 'Lorem ipsum dolor'
+        image: marya,
+        fact: 'Lorem ipsum dolor',
+        name: 'Marya Kim',
     },
     {
-        image: jessica,
-        fact: 'Lorem ipsum dolor'
+        image: archit,
+        name: 'Archit Mehta',
+        fact: 'Lorem ipsum dolor',
     }
 ]
