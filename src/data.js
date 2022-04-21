@@ -54,11 +54,11 @@ export const android = [
 export const ios = [
     {
         image: placeholder,
-        fact: 'I am a cereal killer (I eat my cereal and then drink the milk)',
+        fact: 'Lorem ipsum dolor',
     },
     {
         image: placeholder,
-        fact: '🚗🚙🚗🚙🚗 ~ I love transformers ~ 🚙🚗🚙🚗🚙🚗🚙🚗🚙',
+        fact: 'Lorem ipsum dolor',
     }
 ]
 
