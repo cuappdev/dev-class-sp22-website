@@ -19,7 +19,7 @@ function App() {
         <div className="App">
             <header className="App-header">
                 <img src={logo} className="App-logo" alt="logo" />
-                <p>Welcome to AppDev :)</p>
+                <p class="High">[Insert very cool justification here]</p>
             </header>
             {
                 Object.keys(subteamMapping)

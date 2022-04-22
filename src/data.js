@@ -96,8 +96,9 @@ export const design = [
 export const backend = [
     {
         image: marya,
-        fact: 'Lorem ipsum dolor',
+        fact: 'I\'ve lived in 10 different places (so far)',
         name: 'Marya Kim',
+        major: 'Computer Science'
     },
     {
         image: archit,
