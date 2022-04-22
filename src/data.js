@@ -6,6 +6,7 @@ import maxwell from "./maxwell_pang.jpg"
 import emily from "./emily_hu.jpg"
 
 // ios
+import sylvan from "./sylvan_martin.jpg"
 
 // marketing
 import matthew from "./matthew_wong.jpg"
@@ -17,8 +18,8 @@ import liam from "./liam_du.jpg"
 
 // backend
 import archit from "./archit.jpg"
-import marya from "./marya_kim.jpg"
 import joyce from "./joyce_shlump.jpg"
+import marya from "./cool_marya_kim.jpg"
 
 // best subteam
 export const android = [
@@ -46,27 +47,24 @@ export const android = [
 
 export const ios = [
     {
-        image: placeholder,
-        fact: 'Lorem ipsum dolor',
-    },
-    {
-        image: placeholder,
+        image: sylvan,
+        name: "Sylvan Martin",
         fact: 'Lorem ipsum dolor',
     }
 ]
 
 export const marketing = [
     {
-        image: matthew,
-        name: "Matthew Wong",
-        fact: 'I\'m left-handed but shoot a basketball with my right-hand',
-        major: "Information Science, Systems, and Technology"
-    },
-    {
         image: jane,
         name: "Jane Lee",
         fact: 'Lorem ipsum dolor',
         major: "Chemical Engineering"
+    },
+    {
+        image: matthew,
+        name: "Matthew Wong",
+        fact: 'I\'m left-handed but shoot a basketball with my right-hand',
+        major: "Information Science, Systems, and Technology"
     }
 ]
 
@@ -95,8 +93,9 @@ export const backend = [
     },
     {
         image: marya,
-        fact: 'Lorem ipsum dolor',
         name: 'Marya Kim',
+        fact: 'I moved 11 times during my childhood.',
+        major: 'Computer Science',
     },
     {
         image: joyce,
