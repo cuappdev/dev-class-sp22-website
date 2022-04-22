@@ -8,16 +8,10 @@ import emily from "./emily_hu.jpg"
 // ios
 
 // marketing
-import carnell from "./challenger-carnell.jpeg";
-import vivp from "./vivian-p.jpeg";
 import matthew from "./matthew_wong.jpg"
 import jane from "./jane_lee.png"
 
 // design
-import jin from "./jin.png";
-import christina from "./christina.jpeg";
-import michelle from "./michelle.png";
-import emily2 from "./emily.jpeg";
 import kayla from "./kayla_sprayberry.png"
 import liam from "./liam_du.jpg"
 
