@@ -17,7 +17,7 @@ import liam from "./liam_du.jpg"
 
 // backend
 import archit from "./archit.jpg"
-import marya from "./marya_kim.jpg"
+import marya from "./cool_marya_kim.jpg"
 
 // best subteam
 export const android = [
@@ -94,7 +94,10 @@ export const backend = [
     },
     {
         image: marya,
-        fact: 'Lorem ipsum dolor',
+        name: 'Marya Kim',
+        fact: 'I moved 11 times during my childhood.',
+        major: 'Computer Science',
+        minor: 'Game Design',
         name: 'Marya Kim',
     },
 ]
