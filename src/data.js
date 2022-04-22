@@ -18,7 +18,7 @@ import liam from "./liam_du.jpg"
 // backend
 import archit from "./archit.jpg"
 import marya from "./marya_kim.jpg"
-import joyce from "./joyce_wu.jpg"
+import joyce from "./joyce_shlump.jpg"
 
 // best subteam
 export const android = [
