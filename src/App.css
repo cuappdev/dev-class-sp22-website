@@ -89,4 +89,7 @@ p {
 
 shadow {
   box-shadow: 5px 10px;
+}.card {
+  max-width: 400px;
+  margin: 0 auto;
 }

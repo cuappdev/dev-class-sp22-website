@@ -6,6 +6,7 @@ import maxwell from "./maxwell_pang.jpg"
 import emily from "./emily_hu.jpg"
 
 // ios
+import sylvan from "./sylvan_martin.jpg"
 
 // marketing
 import matthew from "./matthew_wong.jpg"
@@ -46,11 +47,8 @@ export const android = [
 
 export const ios = [
     {
-        image: placeholder,
-        fact: 'Lorem ipsum dolor',
-    },
-    {
-        image: placeholder,
+        image: sylvan,
+        name: "Sylvan Martin",
         fact: 'Lorem ipsum dolor',
     }
 ]
