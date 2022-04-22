@@ -8,24 +8,16 @@ import emily from "./emily_hu.jpg"
 // ios
 
 // marketing
-import carnell from "./challenger-carnell.jpeg";
-import vivp from "./vivian-p.jpeg";
 import matthew from "./matthew_wong.jpg"
 import jane from "./jane_lee.png"
 
 // design
-import jin from "./jin.png";
-import christina from "./christina.jpeg";
-import michelle from "./michelle.png";
-import emily2 from "./emily.jpeg";
 import kayla from "./kayla_sprayberry.png"
 import liam from "./liam_du.jpg"
 
 // backend
-import kidus from "./kidus.jpeg";
-import jessica from "./jessica.jpeg";
+import archit from "./archit.jpg"
 import marya from "./marya_kim.jpg"
-import archit from "./archit_mehta.jpg"
 
 // best subteam
 export const android = [
@@ -95,14 +87,15 @@ export const design = [
 
 export const backend = [
     {
+        image: archit,
+        name: 'Archit Mehta',
+        fact: 'I\'m double jointed in all 10 fingers ✋',
+        major: 'Computer Science'
+    },
+    {
         image: marya,
         fact: 'I\'ve lived in 10 different places (so far)',
         name: 'Marya Kim',
         major: 'Computer Science'
     },
-    {
-        image: archit,
-        name: 'Archit Mehta',
-        fact: 'Lorem ipsum dolor',
-    }
 ]
