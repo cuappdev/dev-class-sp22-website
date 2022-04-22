@@ -8,11 +8,11 @@ import ProfileSection from "./profileSection";
 
 function App() {
     let subteamMapping = {
+        "Backend": backend,
         "Android": android,
         "iOS": ios,
         "Marketing": marketing,
         "Design": design,
-        "Backend": backend
     }
 
     return (
