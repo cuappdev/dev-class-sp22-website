@@ -1,6 +1,11 @@
+@font-face {
+  font-family: toySans;
+  src: url(Toysans-Xe5d.ttf);
+}
+
 .App {
   text-align: center;
-  background-color: #000000;
+  background-color: #FFFFFF;
 }
 
 .App-logo {
@@ -43,6 +48,7 @@
 }
 
 .High {
+    font-family: toySans;
     -webkit-animation: textsize 1s infinite, bgcolor 2s infinite;
     animation: textsize 1s infinite, bgcolor 1s infinite;
     -webkit-animation-direction: alternate;
@@ -52,6 +58,7 @@
 }
 
 .HighHeader {
+  font-family: toySans;
   -webkit-animation: bgcolor 2s infinite;
   animation: bgcolor 1s infinite;
   -webkit-animation-direction: alternate;
@@ -61,7 +68,7 @@
 }
 
 .App-header {
-  background-color: #000000;
+  background-color: #FFFFFF;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -74,4 +81,12 @@
 
 .App-link {
   color: #61dafb;
+}
+
+p {
+  font-family: toySans
+}
+
+shadow {
+  box-shadow: 5px 10px;
 }

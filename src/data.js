@@ -56,16 +56,16 @@ export const ios = [
 
 export const marketing = [
     {
-        image: matthew,
-        name: "Matthew Wong",
-        fact: 'I\'m left-handed but shoot a basketball with my right-hand',
-        major: "Information Science, Systems, and Technology"
-    },
-    {
         image: jane,
         name: "Jane Lee",
         fact: 'Lorem ipsum dolor',
         major: "Chemical Engineering"
+    },
+    {
+        image: matthew,
+        name: "Matthew Wong",
+        fact: 'I\'m left-handed but shoot a basketball with my right-hand',
+        major: "Information Science, Systems, and Technology"
     }
 ]
 

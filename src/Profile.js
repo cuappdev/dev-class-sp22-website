@@ -1,8 +1,10 @@
 import React from "react"
+import toySans from "./Toysans-Xe5d.ttf"
+import p from "./App.css"
 
 export default ({ image, funFact, name='I am nameless and afraid', major='', minor='' }) => (
     <div className="col">
-        <div className="card border-0">
+        <div className="card border-0" class="shadow">
             <img
                 src={image}
                 className="card-img-top"
