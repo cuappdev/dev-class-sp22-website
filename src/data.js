@@ -17,7 +17,7 @@ import kayla from "./kayla_sprayberry.png"
 import liam from "./liam_du.jpg"
 
 // backend
-import archit from "./archit.jpg"
+import archit from "./archit_inv.png"
 import joyce from "./joyce_shlump.jpg"
 import marya from "./cool_marya_kim.jpg"
 
