@@ -49,7 +49,7 @@
 
 .High {
     font-family: toySans;
-    -webkit-animation: textsize 1s infinite, bgcolor 2s infinite;
+    -webkit-animation: textsize 1s infinite, bgcolor 1s infinite;
     animation: textsize 1s infinite, bgcolor 1s infinite;
     -webkit-animation-direction: alternate;
     animation-direction: alternate;
