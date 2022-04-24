@@ -49,7 +49,7 @@ export const ios = [
     {
         image: sylvan,
         name: "Sylvan Martin",
-        fact: 'Lorem ipsum dolor',
+        fact: 'I don\'t go on slack',
     }
 ]
 
@@ -57,7 +57,7 @@ export const marketing = [
     {
         image: jane,
         name: "Jane Lee",
-        fact: 'Lorem ipsum dolor',
+        fact: 'I have a kitten in Ithaca',
         major: "Chemical Engineering"
     },
     {
