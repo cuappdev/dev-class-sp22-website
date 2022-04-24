@@ -2,7 +2,7 @@ import placeholder from "./placeholder.png"
 
 // android
 import justin from "./another_justin.jpg"
-import maxwell from "./maxwell_pang.jpg"
+import maxwell from "./maxwell_pang2.JPG"
 import emily from "./emily_hu.jpg"
 
 // ios
