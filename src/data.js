@@ -20,6 +20,7 @@ import liam from "./liam_du.jpg"
 import archit from "./archit_inv.png"
 import joyce from "./joyce_shlump.jpg"
 import marya from "./cool_marya_kim.jpg"
+import mateo from "./mateo_weiner.png"
 
 // best subteam
 export const android = [
@@ -102,5 +103,12 @@ export const backend = [
         name: 'Joyce Wu',
         fact: 'I have eaten whale meat before!',
         major: 'Computer Science and Economics'
+    },
+    {
+        image: mateo,
+        name: "Mateo Weiner",
+        fact: "I\'m right handed but write and draw with my left hand!",
+        major: "Computer Science",
+        minor: "ECE"
     }
 ]
